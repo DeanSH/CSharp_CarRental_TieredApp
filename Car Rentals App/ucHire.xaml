@@ -1,0 +1,16 @@
+﻿<UserControl
+    x:Class="Car_Rentals_App.ucHire"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Car_Rentals_App"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Height="55.667" Width="423.667" HorizontalAlignment="Center">
+
+    <Grid Margin="1,1,4.333,-0.333" VerticalAlignment="Top" Height="55" Width="424" HorizontalAlignment="Center">
+
+        <TextBlock x:Name="lblEndDate" HorizontalAlignment="Center" Height="20" Margin="51,1,48,0" TextWrapping="Wrap" Text="End Date:" VerticalAlignment="Top" Width="316"/>
+        <DatePicker x:Name="dpEnd" HorizontalAlignment="Center" Height="32" Margin="48,22,48,0" VerticalAlignment="Top" Width="319"/>
+
+    </Grid>
+</UserControl>
