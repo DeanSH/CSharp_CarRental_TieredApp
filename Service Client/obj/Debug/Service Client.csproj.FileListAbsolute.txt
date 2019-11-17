@@ -1,0 +1,14 @@
+C:\Users\I-Love-Dean\Documents\NMIT Stuff\2018 s1\SDV701\Assessment 2\SDV701 Car Rental Project\Service Client\bin\Debug\Service Client.exe.config
+C:\Users\I-Love-Dean\Documents\NMIT Stuff\2018 s1\SDV701\Assessment 2\SDV701 Car Rental Project\Service Client\bin\Debug\Service Client.exe
+C:\Users\I-Love-Dean\Documents\NMIT Stuff\2018 s1\SDV701\Assessment 2\SDV701 Car Rental Project\Service Client\bin\Debug\Service Client.pdb
+C:\Users\I-Love-Dean\Documents\NMIT Stuff\2018 s1\SDV701\Assessment 2\SDV701 Car Rental Project\Service Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\I-Love-Dean\Documents\NMIT Stuff\2018 s1\SDV701\Assessment 2\SDV701 Car Rental Project\Service Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\I-Love-Dean\Documents\NMIT Stuff\2018 s1\SDV701\Assessment 2\SDV701 Car Rental Project\Service Client\bin\Debug\System.Web.Http.dll
+C:\Users\I-Love-Dean\Documents\NMIT Stuff\2018 s1\SDV701\Assessment 2\SDV701 Car Rental Project\Service Client\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\I-Love-Dean\Documents\NMIT Stuff\2018 s1\SDV701\Assessment 2\SDV701 Car Rental Project\Service Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\I-Love-Dean\Documents\NMIT Stuff\2018 s1\SDV701\Assessment 2\SDV701 Car Rental Project\Service Client\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\I-Love-Dean\Documents\NMIT Stuff\2018 s1\SDV701\Assessment 2\SDV701 Car Rental Project\Service Client\bin\Debug\System.Web.Http.xml
+C:\Users\I-Love-Dean\Documents\NMIT Stuff\2018 s1\SDV701\Assessment 2\SDV701 Car Rental Project\Service Client\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\I-Love-Dean\Documents\NMIT Stuff\2018 s1\SDV701\Assessment 2\SDV701 Car Rental Project\Service Client\obj\Debug\Service Client.csprojResolveAssemblyReference.cache
+C:\Users\I-Love-Dean\Documents\NMIT Stuff\2018 s1\SDV701\Assessment 2\SDV701 Car Rental Project\Service Client\obj\Debug\Service Client.exe
+C:\Users\I-Love-Dean\Documents\NMIT Stuff\2018 s1\SDV701\Assessment 2\SDV701 Car Rental Project\Service Client\obj\Debug\Service Client.pdb
