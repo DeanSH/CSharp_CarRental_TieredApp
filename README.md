@@ -6,5 +6,18 @@ These application allow you to host a Windows-based API command line server whic
 ## Database:
 The Database files are found inside the ServiceClient API app folder and belong with the API server if deployed or testing.
 
+## Required Packages:
+This Solution requires the following Visual Studio packages to be functional!! Please Install them with the VS Package Manager!
+
+-> Microsoft.AspNet.WebApi.Client   /   For the Windows Phone Client App and Windows Business App Only
+
+-> Microsoft.AspNet.WebApi.Core
+
+-> Microsoft.AspNet.WebApi.SelfHost  /  For the Service Client only
+
+-> Newtonsoft.Json
+
+-> Xamarin.Forms     /    For the Windows Phone App Only
+
 ## How To Use:
-Simple download the files and open the project solution in Visual Studio to see the 3 indididual tiered projects for it all!
+Simple download the files and open the project solution in Visual Studio to see the 3 indididual tiered projects for it all, Then install the requires Visual Studio Packages Correctly and potentially the Visual Studio MS SQL Server package which is part of the developer MS SQL Server installation needed on your System! Then everything should work fine.
